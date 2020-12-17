@@ -1,5 +1,5 @@
 # cmpe257-M5Forecasting
-### Description of each file in src file.
+### Description of each file in src folder.
 * m5forecasting_EDA has all the pre-processing, exploratory data analysis done on the data set.   
 * m5forecasting_arima has the pre-processing steps specific ARIMA and ARIMA model building and prediction.  
 * m5forecasting_lgbm has the pre-processing steps specific LGBM and LGBM model building and prediction.  
