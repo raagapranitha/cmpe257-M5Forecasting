@@ -3,7 +3,7 @@
 This is cmpe257 final project by Team APS.
 
 ### Project data files
-M5 forecasting competiton data is used for this project. It can be downloaded from the below link.
+M5 forecasting competiton data is used for this project. It can be downloaded from the below link. <br>
 https://www.kaggle.com/c/m5-forecasting-accuracy/data <br>
 
 ### Description of project files
